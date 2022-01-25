@@ -1,1 +1,3 @@
-# prayer_tiimes_uzb
+this is prayer times in Uzbekistan
+
+this is web scraping in python
